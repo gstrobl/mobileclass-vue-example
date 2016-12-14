@@ -1,6 +1,6 @@
-# mobileclass-vue-example
+# FHSTP Mobile Class Vue.js Example
 
-> A Vue.js project
+> A Vue.js project with vue-router and vue-i18n
 
 ## Build Setup
 
