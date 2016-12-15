@@ -1,5 +1,5 @@
 <template>
   <div class="jumbotron">
-    <h1>Contact</h1>
+    <h1>{{ $t('menu_item.contact')}}</h1>
   </div>
 </template>

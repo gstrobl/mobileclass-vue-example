@@ -1,5 +1,5 @@
 <template>
   <div class="jumbotron">
-    <h1>Legal Notice</h1>
+    <h1>{{ $t('menu_item.legalnotice')}}</h1>
   </div>
 </template>

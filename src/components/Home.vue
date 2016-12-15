@@ -1,5 +1,5 @@
 <template>
   <div class="jumbotron">
-    <h1>Home</h1>
+    <h1>{{ $t('menu_item.home')}}</h1>
   </div>
 </template>
